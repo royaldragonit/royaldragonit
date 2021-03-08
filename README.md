@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Long (NickName: RoyalDragonIT😄)
 
-I’m currently learning and working about Mobile developer
+I’m currently working Fullstack Developer
 
 
 ### Programing Language 
@@ -25,6 +25,7 @@ I’m currently learning and working about Mobile developer
 
 ### Version Control
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
 ### Database 
 <img src="https://img.shields.io/badge/-Microsoft SQL Server-black?style=flat&logo=Microsoft-SQL-Server&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY">
 
