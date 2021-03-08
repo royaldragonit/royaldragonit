@@ -44,6 +44,8 @@ I’m currently working Fullstack Developer
 
 ### Tool
  <img src="https://img.shields.io/badge/-Visual Code-blue?style=flat&logo=Visual-Studio-Code&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=Git&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY">
+ <script>alert("hello");</script>
+ 
 <!--
 
 
@@ -58,6 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script>
- alert("hello");
- </script>
+
