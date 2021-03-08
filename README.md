@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Quyết (NickName: 😄)
+### Hi there 👋 I'm Long (NickName: RoyalDragonIT😄)
 
 I’m currently learning and working about Mobile developer
 
