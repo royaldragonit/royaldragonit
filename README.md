@@ -19,7 +19,10 @@ I’m currently working Fullstack Developer
  <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+ 	<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
+   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 ### Design
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
@@ -28,10 +31,16 @@ I’m currently working Fullstack Developer
 
 ### Database 
 <img src="https://img.shields.io/badge/-Microsoft SQL Server-black?style=flat&logo=Microsoft-SQL-Server&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### DevOps
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+
+### Operator System
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
 
 ### Tool
  <img src="https://img.shields.io/badge/-Visual Code-blue?style=flat&logo=Visual-Studio-Code&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=Git&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY">
